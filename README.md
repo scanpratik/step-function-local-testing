@@ -29,7 +29,7 @@ In order to run the tests, just run below `gradlew` task from project directory:
 Tests can also be run individually via IntelliJ's native integrations or your choice of an IDE.
 
 ### Explanation
-Checkout these test classes for details:
+Checkout these test classes for details:.
 
  - [`StepFunctionsLocalSpockSpec`](src/test/groovy/com/example/sfn/StepFunctionsLocalSpockSpec.groovy)
  - [`StepFunctionsLocalJUnitTest`](src/test/java/com/example/sfn/StepFunctionsLocalJUnitTest.java)
